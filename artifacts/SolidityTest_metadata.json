@@ -1,0 +1,64 @@
+{
+	"compiler": {
+		"version": "0.6.12+commit.27d51765"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"stateMutability": "nonpayable",
+				"type": "constructor"
+			},
+			{
+				"inputs": [],
+				"name": "getResult",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"SimpleStorage.sol": "SolidityTest"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"SimpleStorage.sol": {
+			"keccak256": "0x19574269421c3548eb1d0f1d8f55fdc5423a0e2b3c596f7eb9dbbd9b2ed65501",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://6e1756965d522de3e37147487495cddbc7a333311cbd9b3b3e0d1a571d9d1611",
+				"dweb:/ipfs/QmWNwAmhoabibuMUbzKUzXDMxebofUxzQGqjwsYSZH1YzZ"
+			]
+		}
+	},
+	"version": 1
+}
